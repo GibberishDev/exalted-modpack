@@ -1,0 +1,25 @@
+{
+  "name": "exalted-modpack",
+  "version": "1.0.0",
+  "description": "Web page for Exalted+ modpack",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GibberishDev/exalted-modpack.git"
+  },
+  "keywords": [
+    "Minecraft",
+    "Webpage",
+    "Sass"
+  ],
+  "author": "GibbDev",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/GibberishDev/exalted-modpack/issues"
+  },
+  "homepage": "https://github.com/GibberishDev/exalted-modpack",
+  "devDependencies": {
+    "parcel": "^2.7.0",
+    "sass": "^1.55.0"
+  }
+}
